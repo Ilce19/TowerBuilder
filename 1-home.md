@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-permalink: /
+permalink: / Las líneas de la transparencia 
 ---
 
-# THIS IS THE FIRST TITLE
+# THIS IS OPEN DATA DAY 2020
 
 This text is a paragraph.
 This won't be another paragraph, it will join the line above it.
